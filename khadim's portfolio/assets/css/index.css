@@ -1260,6 +1260,6 @@ transition: .4s;
         width: 460px;
     }
     .contact__inputs{
-        grid-template-columns: repeat(2 ,1fr);
+        grid-template-columns: repeat(1 ,1fr);
     }
 }
